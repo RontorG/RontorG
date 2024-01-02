@@ -1,2 +1,8 @@
-I’m interested in games and computer science.
-Currently learning python and javascript.
+**I like:**
+ - games
+ - reverse engeening
+ - gnu/linux
+ - BSD
+ - and some 1337 stuff
+
+:)
